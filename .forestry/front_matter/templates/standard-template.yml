@@ -10,3 +10,5 @@ fields:
     max: 
   label: Main
   description: Main Section where you can add blocks
+pages:
+- portfolio/internal/My First Page.md
