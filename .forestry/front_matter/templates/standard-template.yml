@@ -1,4 +1,12 @@
 ---
 label: Standard Template
 hide_body: true
-fields: []
+fields:
+- name: main
+  type: blocks
+  template_types: []
+  config:
+    min: 
+    max: 
+  label: Main
+  description: Main Section where you can add blocks
