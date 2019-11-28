@@ -4,7 +4,8 @@ hide_body: true
 fields:
 - name: main
   type: blocks
-  template_types: []
+  template_types:
+  - journal
   config:
     min: 
     max: 
