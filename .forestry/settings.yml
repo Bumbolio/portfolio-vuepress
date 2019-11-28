@@ -23,6 +23,13 @@ sections:
   match: "**/[!index]*"
   templates:
   - journal
+- type: directory
+  path: portfolio/internal
+  label: Internal Pages
+  create: all
+  match: "**/*"
+  templates:
+  - standard-template
 - type: heading
   label: Data
 - type: document
